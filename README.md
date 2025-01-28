@@ -14,3 +14,26 @@ Users start on the login.html page, input an email, are directed to the password
 All information is timestamped and stored in the usernames.txt file.
 
 ## Examples
+
+### Login Page
+
+Fake:
+![image alt <](https://github.com/ejmarine/Microsoft-Login-Spoof/blob/787407ee1184761643f9d5b9bd317e5774eb1f8e/Examples/login_fake.png)
+Real:
+![image alt >](https://github.com/ejmarine/Microsoft-Login-Spoof/blob/787407ee1184761643f9d5b9bd317e5774eb1f8e/Examples/login_real.png)
+
+### Password Page
+
+Fake:
+![image alt <](https://github.com/ejmarine/Microsoft-Login-Spoof/blob/787407ee1184761643f9d5b9bd317e5774eb1f8e/Examples/password_fake.png)
+Real:
+![image alt >](https://github.com/ejmarine/Microsoft-Login-Spoof/blob/787407ee1184761643f9d5b9bd317e5774eb1f8e/Examples/password_real.png)
+
+
+img[alt$=">"] {
+  float: right;
+}
+
+img[alt$="<"] {
+  float: left;
+}
