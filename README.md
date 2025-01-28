@@ -1,6 +1,7 @@
 # Microsoft Login Spoof
- Retooled version of Microsoft's login page that can be used in controlled phishin exercises
+Retooled version of Microsoft's login page that can be used in controlled phishing exercises
 
+Intended solely for use in employee training
 
 ## Overview
 
