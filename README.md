@@ -18,9 +18,9 @@ All information is timestamped and stored in the usernames.txt file.
 ### Login Page
 
 Fake (Left) vs. Real (Right):
-<br><img src="Examples/login_fake.png" alt="drawing" width="40%">     <img src="Examples/login_real.png" alt="drawing" width="40%"/>
+<br><img src="Examples/login_fake.png" alt="drawing" width="49%">     <img src="Examples/login_real.png" alt="drawing" width="49%"/>
 
 ### Password Page
 
 Fake (Left) vs. Real (Right):
-<br><img src="Examples/password_fake.png" alt="drawing" width="40%"/>     <img src="Examples/password_real.png" alt="drawing" width="40%"/>
+<br><img src="Examples/password_fake.png" alt="drawing" width="49%"/>     <img src="Examples/password_real.png" alt="drawing" width="49%"/>
