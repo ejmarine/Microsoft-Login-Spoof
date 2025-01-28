@@ -17,23 +17,10 @@ All information is timestamped and stored in the usernames.txt file.
 
 ### Login Page
 
-Fake:
-![image alt <](https://github.com/ejmarine/Microsoft-Login-Spoof/blob/787407ee1184761643f9d5b9bd317e5774eb1f8e/Examples/login_fake.png)
-Real:
-![image alt >](https://github.com/ejmarine/Microsoft-Login-Spoof/blob/787407ee1184761643f9d5b9bd317e5774eb1f8e/Examples/login_real.png)
+Fake (Left) vs. Real (Right):
+<br><img src="Examples/login_fake.png" alt="drawing" width="40%">     <img src="Examples/login_real.png" alt="drawing" width="40%"/>
 
 ### Password Page
 
-Fake:
-![image alt <](https://github.com/ejmarine/Microsoft-Login-Spoof/blob/787407ee1184761643f9d5b9bd317e5774eb1f8e/Examples/password_fake.png)
-Real:
-![image alt >](https://github.com/ejmarine/Microsoft-Login-Spoof/blob/787407ee1184761643f9d5b9bd317e5774eb1f8e/Examples/password_real.png)
-
-
-img[alt$=">"] {
-  float: right;
-}
-
-img[alt$="<"] {
-  float: left;
-}
+Fake (Left) vs. Real (Right):
+<br><img src="Examples/password_fake.png" alt="drawing" width="40%"/>     <img src="Examples/password_real.png" alt="drawing" width="40%"/>
